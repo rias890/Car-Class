@@ -1,1 +1,1 @@
-Challenge 65 has all class details
+Using classes ("Challenge 65" has all class details) and parsing, I turned a text file of vehicle info into a tool to find, add, and view details like make, model, year, price, mileage, and availability. 

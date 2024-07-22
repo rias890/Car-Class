@@ -1,0 +1,47 @@
+Make: Toyota
+Model: Corolla
+Year: 2010
+Price: 15000
+Used: TRUE
+Mileage: 4500
+Doors: 4
+Available: TRUE 
+
+Make: Honda 
+Model: Civic
+Year: 2015
+Price: 17000
+Used: TRUE
+Mileage: 54500
+Doors: 4
+Available: FALSE
+
+Make: Chevrolet
+Model: Venture 
+Year: 2004 
+Price: 5000
+Used: TRUE
+Mileage: 154500
+Doors: 4
+Available: TRUE
+
+Make: Suzuki 
+Model: Canyon 
+Year: 1989
+Price: 90808
+Used: TRUE
+Mileage: 9098
+Doors: 0 
+Available: TRUE
+Type: Sport 
+
+Make: GMC
+Model: Country
+Year: 1978
+Price: 686454
+Used: TRUE 
+Mileage: 9088
+Doors: 4
+Available: TRUE
+Type: Mid-Size 
+Bed-Size: Short-Bed
